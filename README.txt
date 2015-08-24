@@ -1,0 +1,1 @@
+VIC irrigation based on VIC 4.2.1, with Ted's crop evolution and Ingjerd's irrigation schemes incorporated. Used for ISI-MIP project.
